@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - A
+  - B
+  - AB
+  - O
+  - BloodAB
+  - BloodA
+  - BloodB
+  - BloodO
+  - MusicToggle
+  - SFXToggle
+  - SFX
+  - SFXGame
+  - SFXGamep1
+  - SFXGamep2
+  - text
+  - LevelUpfx
+  - powerup1
+  - powerup2
+  - wavecomplete
+  - gameover
+  - soundManager
+  - failedtxt
+  - gameoverscreen
+  - donorhandler
+  - puasebutton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: A
+    uniqueID: 2707499131
+    locked: 0
+  - name: B
+    uniqueID: 2971739
+    locked: 0
+  - name: AB
+    uniqueID: 2248792817
+    locked: 0
+  - name: O
+    uniqueID: 1039903667
+    locked: 0
