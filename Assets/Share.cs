@@ -17,7 +17,7 @@ public class Share : MonoBehaviour
 		yield return new WaitForEndOfFrame();
 
 		new NativeShare().SetText("")
-			.SetSubject("Subject goes here").SetText("I'm playing Donors and I'm helping collecting donations to Lebanon. It's your turn now download and play and help!")
+			.SetSubject("Subject goes here").SetText("I'm playing Donors. Download and play with me ")
 			.SetCallback((result, shareTarget) => Debug.Log("Share result: " + result + ", selected app: " + shareTarget))
 			.Share();
 
@@ -27,33 +27,33 @@ public class Share : MonoBehaviour
 		yield return new WaitForEndOfFrame();
 
 		new NativeShare().SetText("")
-			.SetSubject("Subject goes here").SetText("I scored " + GameManagerTwo.score.ToString()+ "playing Donors and helped collecting donations to Lebanon through advertising revenue.It's your turn now download and play and help!")
+			.SetSubject("Subject goes here").SetText("I scored " + GameManagerTwo.score.ToString()+ "playing Donors.Can you beat my score?")
 			.SetCallback((result, shareTarget) => Debug.Log("Share result: " + result + ", selected app: " + shareTarget))
 			.Share();
 
 	}
 	public void OpenDirectDonation()
 	{
-		Application.OpenURL("https://supportlrc.app/");
+		Application.OpenURL("http://www.iemoji.com/view/emoji/56/smileys-people/thumbs-up");
 	}
 	public void FacebookLink()
 	{
-		Application.OpenURL("https://www.facebook.com/SuperNova-Games-Non-profit-103180424846331");
+		Application.OpenURL("http://www.iemoji.com/view/emoji/56/smileys-people/thumbs-up");
 	}
 	public void InstagramLink()
 	{
-		Application.OpenURL("https://www.instagram.com/super_nova_gs/?hl=en");
+		Application.OpenURL("http://www.iemoji.com/view/emoji/56/smileys-people/thumbs-up");
 	}
 	public void YoutubeLink()
 	{
-		Application.OpenURL("https://www.youtube.com/channel/UCh3P21qv9cLkhesaMclYp1Q/featured");
+		Application.OpenURL("http://www.iemoji.com/view/emoji/56/smileys-people/thumbs-up");
 	}
 	public void PatreonLink()
 	{
-		Application.OpenURL("https://www.patreon.com/HusseinAttie");
+		Application.OpenURL("http://www.iemoji.com/view/emoji/56/smileys-people/thumbs-up");
 	}
 	public void TweeterLink()
 	{
-		Application.OpenURL("https://twitter.com/HusseinAttie931");
+		Application.OpenURL("http://www.iemoji.com/view/emoji/56/smileys-people/thumbs-up");
 	}
 }

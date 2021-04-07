@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CA10D457-654B-3966-627F-F2BA57AABD8D}</ProjectGuid>
+    <ProjectGuid>{C7CD25E1-1BE2-C7F4-28AD-B015102D2ADA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>NativeShare.Editor</AssemblyName>
@@ -66,16 +66,16 @@
     <Compile Include="Assets\Plugins\NativeShare\Editor\NSPostProcessBuild.cs" />
     <None Include="Assets\Plugins\NativeShare\Editor\NativeShare.Editor.asmdef" />
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Hussein/Downloads/invisibleoriginal/For the Red Cross/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Hussein/OneDrive/سطح المكتب/Files/DonorsGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Hussein/Downloads/invisibleoriginal/For the Red Cross/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Hussein/OneDrive/سطح المكتب/Files/DonorsGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Users/Hussein/Downloads/invisibleoriginal/For the Red Cross/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/Hussein/OneDrive/سطح المكتب/Files/DonorsGame/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Users/Hussein/Downloads/invisibleoriginal/For the Red Cross/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/Hussein/OneDrive/سطح المكتب/Files/DonorsGame/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -270,16 +270,16 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Advertisements.Editor">
-      <HintPath>C:/Users/Hussein/Downloads/invisibleoriginal/For the Red Cross/Assets/UnityAds/UnityEngine.Advertisements.Editor.dll</HintPath>
+      <HintPath>C:/Users/Hussein/OneDrive/سطح المكتب/Files/DonorsGame/Assets/UnityAds/UnityEngine.Advertisements.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Monetization.Editor">
-      <HintPath>C:/Users/Hussein/Downloads/invisibleoriginal/For the Red Cross/Assets/UnityAds/UnityEngine.Monetization.Editor.dll</HintPath>
+      <HintPath>C:/Users/Hussein/OneDrive/سطح المكتب/Files/DonorsGame/Assets/UnityAds/UnityEngine.Monetization.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>C:/Users/Hussein/Downloads/invisibleoriginal/For the Red Cross/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/Hussein/OneDrive/سطح المكتب/Files/DonorsGame/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/Hussein/Downloads/invisibleoriginal/For the Red Cross/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Users/Hussein/OneDrive/سطح المكتب/Files/DonorsGame/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
